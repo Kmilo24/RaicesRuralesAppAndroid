@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RaicesRurales" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#ffffff</item>
+        <item name="colorPrimaryVariant">#3B6D7B</item>
+    </style>
+
+    <style name="Theme.RaicesRurales" parent="Base.Theme.RaicesRurales" />
+</resources>

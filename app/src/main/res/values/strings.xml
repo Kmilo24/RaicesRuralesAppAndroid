@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RaicesRurales</string>
+    <string name="log_usu">USUARIO</string>
+    <string name="log_cont">CONTRASEÑA</string>
+</resources>
